@@ -1,5 +1,11 @@
 # atom-dart-snippets package
 
-A short description of your package.
+Atom Snippets for Dart.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+```
+$ cd ~/.atom/packages
+$ git clone https://github.com/Yangzhedi/atom-dart-snippets
+$ cd atom-dart-snippets
+$ apm install
+$ apm link
+```

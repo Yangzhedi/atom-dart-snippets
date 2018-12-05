@@ -1,14 +1,14 @@
 {
   "name": "atom-dart-snippets",
   "main": "./lib/atom-dart-snippets",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A short description of your package",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "atom-dart-snippets:toggle"
   },
-  "repository": "https://github.com/atom/atom-dart-snippets",
+  "repository": "https://github.com/Yangzhedi/atom-dart-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
