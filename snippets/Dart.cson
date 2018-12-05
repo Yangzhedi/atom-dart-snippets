@@ -1,0 +1,16 @@
+".source.dart":
+  "package: dart core":
+    prefix: "_id"
+    body: "import 'dart:core';"
+
+  "package: flutter material":
+    prefix: "_ipm"
+    body: "import 'package:flutter/material.dart';"
+
+  "package: flutter_webview_plugin":
+    prefix: "_ipfwv"
+    body: "import 'package:flutter_webview_plugin/flutter_webview_plugin.dart';"
+
+  "package: flutter_swiper":
+    prefix: "_ipfsw"
+    body: "import 'package:flutter_swiper/flutter_swiper.dart';"
