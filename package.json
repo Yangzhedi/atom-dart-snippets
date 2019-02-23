@@ -1,7 +1,7 @@
 {
   "name": "atom-dart-snippets",
   "main": "./lib/atom-dart-snippets",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Atom Snippets for Dart",
   "repository": "https://github.com/Yangzhedi/atom-dart-snippets",
   "license": "MIT",
@@ -17,6 +17,5 @@
     "url": "https://github.com/Yangzhedi/atom-dart-snippets/issues"
   },
   "homepage": "https://github.com/Yangzhedi/atom-dart-snippets",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
