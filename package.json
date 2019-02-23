@@ -2,12 +2,21 @@
   "name": "atom-dart-snippets",
   "main": "./lib/atom-dart-snippets",
   "version": "0.3.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "description": "Atom Snippets for Dart",
   "repository": "https://github.com/Yangzhedi/atom-dart-snippets",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">0.50.0"
   },
-  "dependencies": {}
+  "keywords": [
+    "dart",
+    "flutter",
+    "snippets"
+  ],
+  "bugs": {
+    "url": "https://github.com/Yangzhedi/atom-dart-snippets/issues"
+  },
+  "homepage": "https://github.com/Yangzhedi/atom-dart-snippets",
+  "dependencies": {
+  }
 }
